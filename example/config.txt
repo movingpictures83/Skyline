@@ -1,0 +1,2 @@
+Prefix plugins/Skyline/example/
+Plugin Skyline inputfile data.csv outputfile skyline.rds
